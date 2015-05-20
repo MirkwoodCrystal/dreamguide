@@ -1,2 +1,2 @@
 # dreamguide1
-contributor: zihan wang, jing zhang
+contributor: zihan wang, jing zhang and...
